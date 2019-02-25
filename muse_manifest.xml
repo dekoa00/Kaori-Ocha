@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551081985369">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551082233537">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="34597939" ref="index"/>
     <file name="master_a-master.css" crc="319426440" ref="index:about"/>
     <file name="iefonts_index.css" crc="4243763116" ref="index"/>
-    <file name="about.css" crc="3823211061" ref="about"/>
+    <file name="about.css" crc="4204581151" ref="about"/>
   </folder>
   <folder name="fonts">
     <file name="fa-brands-400.woff" crc="4040601067"/>
@@ -40,8 +40,8 @@
       <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-3" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="milk-tea" alt=""/>
       <caption webpage="untitled-7" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -110,9 +110,9 @@
     <file name="u3500-4.png" crc="4141344697" ref="about"/>
     <file name="blank.gif" crc="4208392903" ref="about"/>
     <file name="u3458-fss.png" crc="4160900842" ref="about"/>
-    <file name="u3452.png" crc="4160236758" ref="about"/>
-    <file name="u3452-r.png" crc="230722703" ref="about"/>
+    <file name="u3452.png" crc="341856611" ref="about"/>
+    <file name="u3452-r.png" crc="3848018699" ref="about"/>
   </folder>
-  <file name="index.html" crc="4207091663" seo="true" mt="1551081403510" redirect="true"/>
-  <file name="about.html" crc="313037338" seo="true" mt="1551081972184" redirect="true"/>
+  <file name="index.html" crc="4207091663" seo="true" mt="1551082216550" redirect="true"/>
+  <file name="about.html" crc="4292674671" seo="true" mt="1551082208543" redirect="true"/>
 </manifest>
