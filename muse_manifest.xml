@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551107586629">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551107691274">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="158946688" ref="index"/>
+    <file name="index.css" crc="3986571229" ref="index"/>
     <file name="iefonts_index.css" crc="259610794" ref="index"/>
     <file name="more.css" crc="4046950604" ref="more"/>
     <file name="master_a-master.css" crc="4133007876" ref="more:index"/>
@@ -36,13 +36,13 @@
   </folder>
   <folder name="images">
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:more">
-      <caption webpage="milk-tea" alt=""/>
       <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-3" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -117,6 +117,6 @@
     <file name="u4351.png" crc="378337137" ref="more"/>
     <file name="u4351-r.png" crc="4001737866" ref="more"/>
   </folder>
-  <file name="index.html" crc="3908374353" seo="true" mt="1551107572531" redirect="true"/>
-  <file name="more.html" crc="489356411" seo="true" mt="1551107574098" redirect="true"/>
+  <file name="index.html" crc="3874208846" seo="true" mt="1551107672646" redirect="true"/>
+  <file name="more.html" crc="3831514971" seo="true" mt="1551107621606" redirect="true"/>
 </manifest>
