@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551082233537">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551083122148">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="34597939" ref="index"/>
     <file name="master_a-master.css" crc="319426440" ref="index:about"/>
     <file name="iefonts_index.css" crc="4243763116" ref="index"/>
-    <file name="about.css" crc="4204581151" ref="about"/>
+    <file name="about.css" crc="3996319874" ref="about"/>
   </folder>
   <folder name="fonts">
     <file name="fa-brands-400.woff" crc="4040601067"/>
@@ -37,11 +37,11 @@
   <folder name="images">
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
-      <caption webpage="untitled-4" alt=""/>
-      <caption webpage="untitled-3" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
       <caption webpage="milk-tea" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -49,8 +49,8 @@
     </file>
     <file name="trau.png" crc="411990923" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="milk-tea" alt=""/>
       <caption webpage="untitled-7" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
     </file>
     <file name="fruit tea.png" crc="3861330738" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -113,6 +113,6 @@
     <file name="u3452.png" crc="341856611" ref="about"/>
     <file name="u3452-r.png" crc="3848018699" ref="about"/>
   </folder>
-  <file name="index.html" crc="4207091663" seo="true" mt="1551082216550" redirect="true"/>
-  <file name="about.html" crc="4292674671" seo="true" mt="1551082208543" redirect="true"/>
+  <file name="index.html" crc="183627145" seo="true" mt="1551082967829" redirect="true"/>
+  <file name="about.html" crc="3931070020" seo="true" mt="1551083096997" redirect="true"/>
 </manifest>
