@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551103476054">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551103727701">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4000952902" ref="index"/>
     <file name="master_a-master.css" crc="3789451344" ref="index:about:more"/>
     <file name="iefonts_index.css" crc="4243763116" ref="index"/>
     <file name="about.css" crc="4179338338" ref="about"/>
-    <file name="more.css" crc="429888142" ref="more"/>
+    <file name="more.css" crc="500599097" ref="more"/>
   </folder>
   <folder name="fonts">
     <file name="fa-brands-400.woff" crc="4040601067"/>
@@ -38,13 +38,13 @@
   </folder>
   <folder name="images">
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:about:more">
-      <caption webpage="untitled-4" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
       <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="milk-tea" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -156,5 +156,5 @@
   </folder>
   <file name="index.html" crc="412437766" seo="true" mt="1551103349652" redirect="true"/>
   <file name="about.html" crc="154777443" seo="true" mt="1551103349652" redirect="true"/>
-  <file name="more.html" crc="3819476091" seo="true" mt="1551103455699" redirect="true"/>
+  <file name="more.html" crc="337054895" seo="true" mt="1551103713589" redirect="true"/>
 </manifest>
