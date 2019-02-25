@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551067373680">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551074055283">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3974292032" ref="index"/>
-    <file name="master_a-master.css" crc="4061102629" ref="index:about"/>
+    <file name="index.css" crc="34597939" ref="index"/>
+    <file name="master_a-master.css" crc="319426440" ref="index:about"/>
     <file name="iefonts_index.css" crc="4243763116" ref="index"/>
-    <file name="about.css" crc="337413323" ref="about"/>
+    <file name="about.css" crc="463635448" ref="about"/>
   </folder>
   <folder name="fonts">
     <file name="fa-brands-400.woff" crc="4040601067"/>
@@ -95,6 +95,6 @@
     <file name="u2697-4.png" crc="3789439143" ref="about"/>
     <file name="u2711-4.png" crc="3868799534" ref="about"/>
   </folder>
-  <file name="index.html" crc="187453630" seo="true" mt="1551067070340" redirect="true"/>
-  <file name="about.html" crc="4240675877" seo="true" mt="1551067360367" redirect="true"/>
+  <file name="index.html" crc="3877760011" seo="true" mt="1551073993242" redirect="true"/>
+  <file name="about.html" crc="4118722050" seo="true" mt="1551074009133" redirect="true"/>
 </manifest>
