@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551106675040">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551107000825">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="311520067" ref="index"/>
-    <file name="iefonts_index.css" crc="4048777556" ref="index"/>
+    <file name="index.css" crc="426786336" ref="index"/>
+    <file name="iefonts_index.css" crc="4077492119" ref="index"/>
     <file name="more.css" crc="3913024673" ref="more"/>
     <file name="master_a-master.css" crc="76797941" ref="more:index"/>
   </folder>
@@ -117,6 +117,6 @@
     <file name="u4351.png" crc="378337137" ref="more"/>
     <file name="u4351-r.png" crc="4001737866" ref="more"/>
   </folder>
-  <file name="index.html" crc="4178066470" seo="true" mt="1551106641330" redirect="true"/>
+  <file name="index.html" crc="4177802866" seo="true" mt="1551106993534" redirect="true"/>
   <file name="more.html" crc="336563640" seo="true" mt="1551106642851" redirect="true"/>
 </manifest>
