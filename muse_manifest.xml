@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551077994812">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551081985369">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="34597939" ref="index"/>
     <file name="master_a-master.css" crc="319426440" ref="index:about"/>
     <file name="iefonts_index.css" crc="4243763116" ref="index"/>
-    <file name="about.css" crc="463635448" ref="about"/>
+    <file name="about.css" crc="3823211061" ref="about"/>
   </folder>
   <folder name="fonts">
     <file name="fa-brands-400.woff" crc="4040601067"/>
@@ -23,21 +23,25 @@
     <file name="jquery.watch.js" crc="99325471" ref="index:about"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about"/>
     <file name="require.js" crc="4157109226" ref="index:about"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index:about"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="about"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about"/>
+    <file name="form_check.php" crc="147359589" ref="about"/>
+    <file name="form_throttle.php" crc="93986428" ref="about"/>
+    <file name="form_process.php" crc="3851993751" ref="about"/>
+    <file name="form-u3446.php" crc="367404161" ref="about"/>
   </folder>
   <folder name="images">
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
-      <caption webpage="untitled-3" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="milk-tea" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -64,9 +68,6 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="u2440-4.png" crc="3843210125" ref="about"/>
-    <file name="pasted image 1676x406.jpg" crc="486241204" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
     <file name="u2510-11.png" crc="3969476267" ref="about"/>
     <file name="xcw5jkbt.png" crc="3787884438" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -94,7 +95,24 @@
     <file name="u2696-6.png" crc="279999195" ref="about"/>
     <file name="u2697-4.png" crc="3789439143" ref="about"/>
     <file name="u2711-4.png" crc="3868799534" ref="about"/>
+    <file name="u3397-4.png" crc="382881611" ref="about"/>
+    <file name="u3400-4.png" crc="522950630" ref="about"/>
+    <file name="u3403-4.png" crc="2890737" ref="about"/>
+    <file name="u3415-4.png" crc="4164767455" ref="about"/>
+    <file name="u3418-4.png" crc="3823817587" ref="about"/>
+    <file name="u3421-4.png" crc="56793294" ref="about"/>
+    <file name="u3422-4.png" crc="4168302811" ref="about"/>
+    <file name="u3423-4.png" crc="17908808" ref="about"/>
+    <file name="aroma-art-beautiful-544113.png" crc="84373377" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u3497-4.png" crc="418973026" ref="about"/>
+    <file name="u3500-4.png" crc="4141344697" ref="about"/>
+    <file name="blank.gif" crc="4208392903" ref="about"/>
+    <file name="u3458-fss.png" crc="4160900842" ref="about"/>
+    <file name="u3452.png" crc="4160236758" ref="about"/>
+    <file name="u3452-r.png" crc="230722703" ref="about"/>
   </folder>
-  <file name="index.html" crc="3877760011" seo="true" mt="1551077979049" redirect="true"/>
-  <file name="about.html" crc="4118722050" seo="true" mt="1551074009133" redirect="true"/>
+  <file name="index.html" crc="4207091663" seo="true" mt="1551081403510" redirect="true"/>
+  <file name="about.html" crc="313037338" seo="true" mt="1551081972184" redirect="true"/>
 </manifest>
