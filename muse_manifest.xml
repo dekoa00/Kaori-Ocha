@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551107776987">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551108086754">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="301334266" ref="index"/>
     <file name="iefonts_index.css" crc="98971317" ref="index"/>
-    <file name="more.css" crc="314242812" ref="more"/>
+    <file name="more.css" crc="9490081" ref="more"/>
     <file name="master_a-master.css" crc="4133007876" ref="more:index"/>
   </folder>
   <folder name="fonts">
@@ -36,12 +36,12 @@
   </folder>
   <folder name="images">
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:more">
-      <caption webpage="milk-tea" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="untitled-3" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
-      <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
@@ -103,20 +103,20 @@
     <file name="u4315-6.png" crc="4162963681" ref="more"/>
     <file name="u4313-4.png" crc="355027406" ref="more"/>
     <file name="u4318-4.png" crc="4077838173" ref="more"/>
-    <file name="u4327-4.png" crc="4111317134" ref="more"/>
-    <file name="u4324-4.png" crc="4284299645" ref="more"/>
-    <file name="u4330-4.png" crc="4208313379" ref="more"/>
-    <file name="u4326-4.png" crc="331520669" ref="more"/>
-    <file name="u4332-4.png" crc="220830949" ref="more"/>
-    <file name="u4323-4.png" crc="4192490921" ref="more"/>
-    <file name="u4329-4.png" crc="303568209" ref="more"/>
-    <file name="u4331-4.png" crc="355637785" ref="more"/>
+    <file name="u4327-4.png" crc="3887409202" ref="more"/>
+    <file name="u4324-4.png" crc="191169505" ref="more"/>
+    <file name="u4330-4.png" crc="3891864647" ref="more"/>
+    <file name="u4326-4.png" crc="4225757616" ref="more"/>
+    <file name="u4332-4.png" crc="120041659" ref="more"/>
+    <file name="u4323-4.png" crc="4119970897" ref="more"/>
+    <file name="u4329-4.png" crc="127682666" ref="more"/>
+    <file name="u4331-4.png" crc="210470370" ref="more"/>
     <file name="u4353-4.png" crc="4217912840" ref="more"/>
     <file name="u4354-4.png" crc="10350019" ref="more"/>
     <file name="u4352-fss.png" crc="349963302" ref="more"/>
-    <file name="u4351.png" crc="378337137" ref="more"/>
-    <file name="u4351-r.png" crc="4001737866" ref="more"/>
+    <file name="u4351.png" crc="3833263751" ref="more"/>
+    <file name="u4351-r.png" crc="3903932682" ref="more"/>
   </folder>
-  <file name="index.html" crc="108235816" seo="true" mt="1551107768354" redirect="true"/>
-  <file name="more.html" crc="4019737473" seo="true" mt="1551107765191" redirect="true"/>
+  <file name="index.html" crc="108235816" seo="true" mt="1551107822070" redirect="true"/>
+  <file name="more.html" crc="200956395" seo="true" mt="1551108072822" redirect="true"/>
 </manifest>
