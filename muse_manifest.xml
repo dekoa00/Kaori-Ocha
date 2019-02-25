@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551103938311">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551104147434">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4000952902" ref="index"/>
+    <file name="index.css" crc="43495988" ref="index"/>
     <file name="master_a-master.css" crc="3789451344" ref="index:more"/>
-    <file name="iefonts_index.css" crc="4243763116" ref="index"/>
+    <file name="iefonts_index.css" crc="284360059" ref="index"/>
     <file name="more.css" crc="500599097" ref="more"/>
   </folder>
   <folder name="fonts">
@@ -36,11 +36,11 @@
   </folder>
   <folder name="images">
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:more">
-      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="milk-tea" alt=""/>
       <caption webpage="untitled-7" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
       <caption webpage="more" alt=""/>
       <caption webpage="untitled-3" alt=""/>
     </file>
@@ -117,6 +117,6 @@
     <file name="u4351.png" crc="378337137" ref="more"/>
     <file name="u4351-r.png" crc="4001737866" ref="more"/>
   </folder>
-  <file name="index.html" crc="444331920" seo="true" mt="1551103931116" redirect="true"/>
+  <file name="index.html" crc="251125485" seo="true" mt="1551104139270" redirect="true"/>
   <file name="more.html" crc="4224081455" seo="true" mt="1551103929141" redirect="true"/>
 </manifest>
