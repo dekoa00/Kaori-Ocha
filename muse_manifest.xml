@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551107000825">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551107123474">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="426786336" ref="index"/>
-    <file name="iefonts_index.css" crc="4077492119" ref="index"/>
+    <file name="index.css" crc="3888882623" ref="index"/>
+    <file name="iefonts_index.css" crc="4044838170" ref="index"/>
     <file name="more.css" crc="3913024673" ref="more"/>
     <file name="master_a-master.css" crc="76797941" ref="more:index"/>
   </folder>
@@ -36,13 +36,13 @@
   </folder>
   <folder name="images">
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:more">
+      <caption webpage="more" alt=""/>
       <caption webpage="untitled-3" alt=""/>
-      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="untitled-7" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="more" alt=""/>
-      <caption webpage="milk-tea" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -50,8 +50,8 @@
     </file>
     <file name="trau.png" crc="411990923" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="milk-tea" alt=""/>
       <caption webpage="untitled-7" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
     </file>
     <file name="fruit tea.png" crc="3861330738" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -117,6 +117,6 @@
     <file name="u4351.png" crc="378337137" ref="more"/>
     <file name="u4351-r.png" crc="4001737866" ref="more"/>
   </folder>
-  <file name="index.html" crc="4177802866" seo="true" mt="1551106993534" redirect="true"/>
+  <file name="index.html" crc="211688370" seo="true" mt="1551107118735" redirect="true"/>
   <file name="more.html" crc="336563640" seo="true" mt="1551106642851" redirect="true"/>
 </manifest>
