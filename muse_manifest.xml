@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551157866035">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551158544675">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4263959083" ref="index"/>
+    <file name="index.css" crc="4278857130" ref="index"/>
     <file name="iefonts_index.css" crc="3793535615" ref="index"/>
     <file name="more.css" crc="9490081" ref="more"/>
     <file name="master_a-master.css" crc="4133007876" ref="more:index"/>
@@ -116,13 +116,13 @@
     <file name="u4352-fss.png" crc="349963302" ref="more"/>
     <file name="u4351.png" crc="3833263751" ref="more"/>
     <file name="u4351-r.png" crc="3903932682" ref="more"/>
-    <file name="left.png" crc="474178814" seo="true" ref="index">
+    <file name="left.png" crc="4206028116" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="585e469fcb11b227491c3374.png" crc="269393109" seo="true" ref="index">
+    <file name="585e469fcb11b227491c3374.png" crc="3849926141" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="98965925" seo="true" mt="1551157837217" redirect="true"/>
+  <file name="index.html" crc="271425354" seo="true" mt="1551158533599" redirect="true"/>
   <file name="more.html" crc="200956395" seo="true" mt="1551108072822" redirect="true"/>
 </manifest>
