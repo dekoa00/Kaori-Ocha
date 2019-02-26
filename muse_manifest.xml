@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551184839929">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551185427979">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4270978996" ref="index"/>
+    <file name="index.css" crc="4276323092" ref="index"/>
     <file name="iefonts_index.css" crc="3793535615" ref="index"/>
     <file name="master_a-master.css" crc="3799931418" ref="index:thông-tin"/>
-    <file name="th_ng-tin.css" crc="45741706" ref="thông-tin"/>
+    <file name="th_ng-tin.css" crc="3945529780" ref="thông-tin"/>
   </folder>
   <folder name="fonts">
     <file name="fa-brands-400.woff" crc="4040601067"/>
@@ -38,12 +38,12 @@
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:thông-tin">
       <caption webpage="milk-tea" alt=""/>
       <caption webpage="untitled-4" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="thông-tin" alt=""/>
       <caption webpage="more" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -165,8 +165,8 @@
     <file name="u6739.png" crc="399176539" ref="index:thông-tin"/>
     <file name="u6739-r.png" crc="266402105" ref="index:thông-tin"/>
     <file name="u6739-a.png" crc="3956473303" ref="index:thông-tin"/>
-    <file name="favicon.ico" crc="3999721647" ref="index:thông-tin"/>
+    <file name="favicon.ico" crc="3999721647" ref="index"/>
   </folder>
-  <file name="index.html" crc="4065407624" seo="true" mt="1551184753365" redirect="true"/>
-  <file name="thông-tin.html" crc="155861876" seo="true" mt="1551184830401" redirect="true"/>
+  <file name="index.html" crc="4274998634" seo="true" mt="1551185344414" redirect="true"/>
+  <file name="thông-tin.html" crc="4226321408" seo="true" mt="1551185344414" redirect="true"/>
 </manifest>
