@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551161591550">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551161781142">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4178574722" ref="index"/>
     <file name="iefonts_index.css" crc="3793535615" ref="index"/>
-    <file name="more.css" crc="3813348525" ref="more"/>
+    <file name="more.css" crc="4207901075" ref="more"/>
     <file name="master_a-master.css" crc="4133007876" ref="more:index"/>
   </folder>
   <folder name="fonts">
@@ -36,13 +36,13 @@
   </folder>
   <folder name="images">
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:more">
-      <caption webpage="about" alt=""/>
-      <caption webpage="untitled-4" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="milk-tea" alt=""/>
       <caption webpage="untitled-3" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
       <caption webpage="more" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -122,7 +122,7 @@
     <file name="585e469fcb11b227491c3374.png" crc="3849926141" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u6417-4.png" crc="3856811715" ref="more"/>
+    <file name="u6417-4.png" crc="339515304" ref="more"/>
     <file name="u6420-4.png" crc="357396387" ref="more"/>
     <file name="u6431-4.png" crc="149404648" ref="more"/>
     <file name="u6440-4.png" crc="90565980" ref="more"/>
@@ -136,5 +136,5 @@
     <file name="u6489-r.png" crc="428505256" ref="more"/>
   </folder>
   <file name="index.html" crc="4227426265" seo="true" mt="1551161391651" redirect="true"/>
-  <file name="more.html" crc="480595636" seo="true" mt="1551161583031" redirect="true"/>
+  <file name="more.html" crc="4132180216" seo="true" mt="1551161777371" redirect="true"/>
 </manifest>
