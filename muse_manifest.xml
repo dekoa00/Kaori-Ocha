@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551184211548">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551184624706">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3938032462" ref="index"/>
     <file name="iefonts_index.css" crc="3793535615" ref="index"/>
-    <file name="more.css" crc="115040927" ref="more"/>
-    <file name="master_a-master.css" crc="3799931418" ref="more:index"/>
+    <file name="master_a-master.css" crc="3799931418" ref="index:thông-tin"/>
+    <file name="th_ng-tin.css" crc="115040927" ref="thông-tin"/>
   </folder>
   <folder name="fonts">
     <file name="fa-brands-400.woff" crc="4040601067"/>
@@ -15,34 +15,35 @@
     <file name="fa-solid-900.svg" crc="3970430265"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:more"/>
-    <file name="museutils.js" crc="3803043152" ref="index:more"/>
-    <file name="whatinput.js" crc="86476730" ref="index:more"/>
-    <file name="museconfig.js" crc="380897831" ref="index:more"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:more"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:more"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:more"/>
-    <file name="require.js" crc="4157109226" ref="index:more"/>
-    <file name="webpro.js" crc="242022427" ref="index:more"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thông-tin"/>
+    <file name="museutils.js" crc="3803043152" ref="index:thông-tin"/>
+    <file name="whatinput.js" crc="86476730" ref="index:thông-tin"/>
+    <file name="museconfig.js" crc="380897831" ref="index:thông-tin"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:thông-tin"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:thông-tin"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:thông-tin"/>
+    <file name="require.js" crc="4157109226" ref="index:thông-tin"/>
+    <file name="webpro.js" crc="242022427" ref="index:thông-tin"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="more"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="more"/>
-    <file name="form_check.php" crc="147359589" ref="more"/>
-    <file name="form_throttle.php" crc="93986428" ref="more"/>
-    <file name="form_process.php" crc="3851993751" ref="more"/>
-    <file name="form-u4336.php" crc="443522460" ref="more"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="thông-tin"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="thông-tin"/>
+    <file name="form_check.php" crc="147359589" ref="thông-tin"/>
+    <file name="form_throttle.php" crc="93986428" ref="thông-tin"/>
+    <file name="form_process.php" crc="3851993751" ref="thông-tin"/>
+    <file name="form-u4336.php" crc="443522460" ref="thông-tin"/>
   </folder>
   <folder name="images">
-    <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:more">
-      <caption webpage="index" alt=""/>
+    <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:thông-tin">
       <caption webpage="milk-tea" alt=""/>
-      <caption webpage="more" alt=""/>
       <caption webpage="untitled-7" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="untitled-3" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="untitled-4" alt=""/>
+      <caption webpage="thông-tin" alt=""/>
+      <caption webpage="more" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -65,101 +66,107 @@
     <file name="cam ep.png" crc="3891931209" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="aroma-background-bright-910329 (1).jpg" crc="261480252" ref="more">
+    <file name="aroma-background-bright-910329 (1).jpg" crc="261480252" ref="thông-tin">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="xcw5jkbt.png" crc="3787884438" seo="true" ref="more">
-      <caption webpage="about" alt=""/>
+    <file name="xcw5jkbt.png" crc="3787884438" seo="true" ref="thông-tin">
+      <caption webpage="thông-tin" alt=""/>
       <caption webpage="more" alt=""/>
-    </file>
-    <file name="foody-tra-sua-kaori-ocha-nguyen-thi-thap-939-636755471489314277.jpg" crc="8958967" seo="true" ref="more">
       <caption webpage="about" alt=""/>
-      <caption webpage="more" alt=""/>
     </file>
-    <file name="aroma-art-beautiful-544113.png" crc="84373377" seo="true" ref="more">
+    <file name="foody-tra-sua-kaori-ocha-nguyen-thi-thap-939-636755471489314277.jpg" crc="8958967" seo="true" ref="thông-tin">
+      <caption webpage="thông-tin" alt=""/>
+      <caption webpage="more" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="more" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="more:index"/>
-    <file name="u4105-11.png" crc="101737808" ref="more"/>
-    <file name="u4104-4.png" crc="145196730" ref="more"/>
-    <file name="u4111-4.png" crc="4020843384" ref="more"/>
-    <file name="u4274-13.png" crc="226784503" ref="more"/>
-    <file name="u4276-4.png" crc="174490274" ref="more"/>
-    <file name="u4279-6.png" crc="3846449909" ref="more"/>
-    <file name="u4281-16.png" crc="3904300810" ref="more"/>
-    <file name="u4284-6.png" crc="4131566625" ref="more"/>
-    <file name="u4286-26.png" crc="119803104" ref="more"/>
-    <file name="u4290-6.png" crc="3990559408" ref="more"/>
-    <file name="u4291-24.png" crc="256707601" ref="more"/>
-    <file name="u4296-6.png" crc="3921811903" ref="more"/>
-    <file name="u4293-12.png" crc="3761761871" ref="more"/>
-    <file name="u4305-6.png" crc="4010148651" ref="more"/>
-    <file name="u4306-12.png" crc="271277133" ref="more"/>
-    <file name="u4299-6.png" crc="411409335" ref="more"/>
-    <file name="u4301-16.png" crc="158862146" ref="more"/>
-    <file name="u4309-6.png" crc="3825682785" ref="more"/>
-    <file name="u4311-4.png" crc="75912892" ref="more"/>
-    <file name="u4315-6.png" crc="4162963681" ref="more"/>
-    <file name="u4313-4.png" crc="355027406" ref="more"/>
-    <file name="u4318-4.png" crc="3877183650" ref="more"/>
-    <file name="u4327-4.png" crc="522158460" ref="more"/>
-    <file name="u4324-4.png" crc="4084382119" ref="more"/>
-    <file name="u4330-4.png" crc="3934747103" ref="more"/>
-    <file name="u4326-4.png" crc="141486032" ref="more"/>
-    <file name="u4332-4.png" crc="354613530" ref="more"/>
-    <file name="u4323-4.png" crc="4173880780" ref="more"/>
-    <file name="u4329-4.png" crc="525472532" ref="more"/>
-    <file name="u4331-4.png" crc="38042906" ref="more"/>
-    <file name="u4353-4.png" crc="4217912840" ref="more"/>
-    <file name="u4354-4.png" crc="10350019" ref="more"/>
-    <file name="u4352-fss.png" crc="349963302" ref="more"/>
-    <file name="u4351.png" crc="3833263751" ref="more"/>
-    <file name="u4351-r.png" crc="3903932682" ref="more"/>
+    <file name="aroma-art-beautiful-544113.png" crc="84373377" seo="true" ref="thông-tin">
+      <caption webpage="thông-tin" alt=""/>
+      <caption webpage="more" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:thông-tin"/>
+    <file name="u4105-11.png" crc="101737808" ref="thông-tin"/>
+    <file name="u4104-4.png" crc="145196730" ref="thông-tin"/>
+    <file name="u4111-4.png" crc="4020843384" ref="thông-tin"/>
+    <file name="u4274-13.png" crc="226784503" ref="thông-tin"/>
+    <file name="u4276-4.png" crc="174490274" ref="thông-tin"/>
+    <file name="u4279-6.png" crc="3846449909" ref="thông-tin"/>
+    <file name="u4281-16.png" crc="3904300810" ref="thông-tin"/>
+    <file name="u4284-6.png" crc="4131566625" ref="thông-tin"/>
+    <file name="u4286-26.png" crc="119803104" ref="thông-tin"/>
+    <file name="u4290-6.png" crc="3990559408" ref="thông-tin"/>
+    <file name="u4291-24.png" crc="256707601" ref="thông-tin"/>
+    <file name="u4296-6.png" crc="3921811903" ref="thông-tin"/>
+    <file name="u4293-12.png" crc="3761761871" ref="thông-tin"/>
+    <file name="u4305-6.png" crc="4010148651" ref="thông-tin"/>
+    <file name="u4306-12.png" crc="271277133" ref="thông-tin"/>
+    <file name="u4299-6.png" crc="411409335" ref="thông-tin"/>
+    <file name="u4301-16.png" crc="158862146" ref="thông-tin"/>
+    <file name="u4309-6.png" crc="3825682785" ref="thông-tin"/>
+    <file name="u4311-4.png" crc="75912892" ref="thông-tin"/>
+    <file name="u4315-6.png" crc="4162963681" ref="thông-tin"/>
+    <file name="u4313-4.png" crc="355027406" ref="thông-tin"/>
+    <file name="u4318-4.png" crc="3877183650" ref="thông-tin"/>
+    <file name="u4327-4.png" crc="522158460" ref="thông-tin"/>
+    <file name="u4324-4.png" crc="4084382119" ref="thông-tin"/>
+    <file name="u4330-4.png" crc="3934747103" ref="thông-tin"/>
+    <file name="u4326-4.png" crc="141486032" ref="thông-tin"/>
+    <file name="u4332-4.png" crc="354613530" ref="thông-tin"/>
+    <file name="u4323-4.png" crc="4173880780" ref="thông-tin"/>
+    <file name="u4329-4.png" crc="525472532" ref="thông-tin"/>
+    <file name="u4331-4.png" crc="38042906" ref="thông-tin"/>
+    <file name="u4353-4.png" crc="4217912840" ref="thông-tin"/>
+    <file name="u4354-4.png" crc="10350019" ref="thông-tin"/>
+    <file name="u4352-fss.png" crc="349963302" ref="thông-tin"/>
+    <file name="u4351.png" crc="3833263751" ref="thông-tin"/>
+    <file name="u4351-r.png" crc="3903932682" ref="thông-tin"/>
     <file name="left.png" crc="4206028116" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="585e469fcb11b227491c3374.png" crc="3849926141" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u6417-4.png" crc="339515304" ref="more"/>
-    <file name="u6420-4.png" crc="357396387" ref="more"/>
-    <file name="u6431-4.png" crc="149404648" ref="more"/>
-    <file name="u6440-4.png" crc="90565980" ref="more"/>
-    <file name="khai-truong-cua-hang-tra-sua-kaori-ocha-tai-quan-7-4-800-10470-crop-u6463.jpg" crc="3779550218" seo="true" ref="more">
+    <file name="u6417-4.png" crc="339515304" ref="thông-tin"/>
+    <file name="u6420-4.png" crc="357396387" ref="thông-tin"/>
+    <file name="u6431-4.png" crc="149404648" ref="thông-tin"/>
+    <file name="u6440-4.png" crc="90565980" ref="thông-tin"/>
+    <file name="khai-truong-cua-hang-tra-sua-kaori-ocha-tai-quan-7-4-800-10470-crop-u6463.jpg" crc="3779550218" seo="true" ref="thông-tin">
       <caption webpage="more" alt=""/>
+      <caption webpage="thông-tin" alt=""/>
     </file>
-    <file name="u6476-4.png" crc="4167013825" ref="more"/>
-    <file name="u6479-4.png" crc="3921511341" ref="more"/>
-    <file name="u6482-4.png" crc="3803038307" ref="more"/>
-    <file name="u6489.png" crc="4149111700" ref="more"/>
-    <file name="u6489-r.png" crc="428505256" ref="more"/>
-    <file name="u6570-4.png" crc="447244869" ref="index:more"/>
-    <file name="kaori-12.png" crc="501917571" seo="true" ref="index:more">
+    <file name="u6476-4.png" crc="4167013825" ref="thông-tin"/>
+    <file name="u6479-4.png" crc="3921511341" ref="thông-tin"/>
+    <file name="u6482-4.png" crc="3803038307" ref="thông-tin"/>
+    <file name="u6489.png" crc="4149111700" ref="thông-tin"/>
+    <file name="u6489-r.png" crc="428505256" ref="thông-tin"/>
+    <file name="u6570-4.png" crc="447244869" ref="index:thông-tin"/>
+    <file name="kaori-12.png" crc="501917571" seo="true" ref="index:thông-tin">
       <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
+      <caption webpage="thông-tin" alt=""/>
     </file>
-    <file name="u6522-4.png" crc="3941776977" ref="index:more"/>
-    <file name="u6519-4.png" crc="81684262" ref="index:more"/>
-    <file name="u6588.png" crc="4146065616" ref="index:more"/>
-    <file name="u6588-r.png" crc="368587031" ref="index:more"/>
-    <file name="u6588-a.png" crc="206161848" ref="index:more"/>
-    <file name="u6623.png" crc="421829134" ref="index:more"/>
-    <file name="u6623-r.png" crc="4164319717" ref="index:more"/>
-    <file name="u6623-a.png" crc="149994374" ref="index:more"/>
-    <file name="u6656.png" crc="125672175" ref="index:more"/>
-    <file name="u6656-r.png" crc="3999410663" ref="index:more"/>
-    <file name="u6656-a.png" crc="3940697722" ref="index:more"/>
-    <file name="u6682.png" crc="3914044123" ref="index:more"/>
-    <file name="u6682-r.png" crc="3888683404" ref="index:more"/>
-    <file name="u6682-a.png" crc="4238966826" ref="index:more"/>
-    <file name="u6710.png" crc="197351092" ref="index:more"/>
-    <file name="u6710-r.png" crc="3918257005" ref="index:more"/>
-    <file name="u6710-a.png" crc="372134461" ref="index:more"/>
-    <file name="u6739.png" crc="399176539" ref="index:more"/>
-    <file name="u6739-r.png" crc="266402105" ref="index:more"/>
-    <file name="u6739-a.png" crc="3956473303" ref="index:more"/>
+    <file name="u6522-4.png" crc="3941776977" ref="index:thông-tin"/>
+    <file name="u6519-4.png" crc="81684262" ref="index:thông-tin"/>
+    <file name="u6588.png" crc="4146065616" ref="index:thông-tin"/>
+    <file name="u6588-r.png" crc="368587031" ref="index:thông-tin"/>
+    <file name="u6588-a.png" crc="206161848" ref="index:thông-tin"/>
+    <file name="u6623.png" crc="421829134" ref="index:thông-tin"/>
+    <file name="u6623-r.png" crc="4164319717" ref="index:thông-tin"/>
+    <file name="u6623-a.png" crc="149994374" ref="index:thông-tin"/>
+    <file name="u6656.png" crc="125672175" ref="index:thông-tin"/>
+    <file name="u6656-r.png" crc="3999410663" ref="index:thông-tin"/>
+    <file name="u6656-a.png" crc="3940697722" ref="index:thông-tin"/>
+    <file name="u6682.png" crc="3914044123" ref="index:thông-tin"/>
+    <file name="u6682-r.png" crc="3888683404" ref="index:thông-tin"/>
+    <file name="u6682-a.png" crc="4238966826" ref="index:thông-tin"/>
+    <file name="u6710.png" crc="197351092" ref="index:thông-tin"/>
+    <file name="u6710-r.png" crc="3918257005" ref="index:thông-tin"/>
+    <file name="u6710-a.png" crc="372134461" ref="index:thông-tin"/>
+    <file name="u6739.png" crc="399176539" ref="index:thông-tin"/>
+    <file name="u6739-r.png" crc="266402105" ref="index:thông-tin"/>
+    <file name="u6739-a.png" crc="3956473303" ref="index:thông-tin"/>
+    <file name="favicon.ico" crc="3999721647" ref="index"/>
   </folder>
-  <file name="index.html" crc="169940039" seo="true" mt="1551184156806" redirect="true"/>
-  <file name="more.html" crc="4014407324" seo="true" mt="1551184187483" redirect="true"/>
+  <file name="index.html" crc="4147870890" seo="true" mt="1551184612204" redirect="true"/>
+  <file name="thông-tin.html" crc="3907348247" seo="true" mt="1551184602066" redirect="true"/>
 </manifest>
