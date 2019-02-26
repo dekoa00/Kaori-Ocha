@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551183712414">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551184211548">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3909351381" ref="index"/>
+    <file name="index.css" crc="3938032462" ref="index"/>
     <file name="iefonts_index.css" crc="3793535615" ref="index"/>
-    <file name="more.css" crc="265417533" ref="more"/>
-    <file name="master_a-master.css" crc="13455187" ref="more:index"/>
+    <file name="more.css" crc="115040927" ref="more"/>
+    <file name="master_a-master.css" crc="3799931418" ref="more:index"/>
   </folder>
   <folder name="fonts">
     <file name="fa-brands-400.woff" crc="4040601067"/>
@@ -36,13 +36,13 @@
   </folder>
   <folder name="images">
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:more">
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="milk-tea" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="untitled-4" alt=""/>
-      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
       <caption webpage="more" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -83,7 +83,7 @@
     <file name="blank.gif" crc="4208392903" ref="more:index"/>
     <file name="u4105-11.png" crc="101737808" ref="more"/>
     <file name="u4104-4.png" crc="145196730" ref="more"/>
-    <file name="u4111-4.png" crc="110682369" ref="more"/>
+    <file name="u4111-4.png" crc="4020843384" ref="more"/>
     <file name="u4274-13.png" crc="226784503" ref="more"/>
     <file name="u4276-4.png" crc="174490274" ref="more"/>
     <file name="u4279-6.png" crc="3846449909" ref="more"/>
@@ -135,25 +135,31 @@
     <file name="u6489.png" crc="4149111700" ref="more"/>
     <file name="u6489-r.png" crc="428505256" ref="more"/>
     <file name="u6570-4.png" crc="447244869" ref="index:more"/>
-    <file name="u6534.png" crc="433997526" ref="index:more"/>
-    <file name="u6534-r.png" crc="3932285019" ref="index:more"/>
-    <file name="u6537.png" crc="284900539" ref="index:more"/>
-    <file name="u6537-r.png" crc="4195930814" ref="index:more"/>
-    <file name="u6540.png" crc="510277168" ref="index:more"/>
-    <file name="u6540-r.png" crc="264837614" ref="index:more"/>
-    <file name="u6543.png" crc="305017724" ref="index:more"/>
-    <file name="u6543-r.png" crc="4265501080" ref="index:more"/>
-    <file name="u6546.png" crc="4113776418" ref="index:more"/>
-    <file name="u6546-r.png" crc="108657335" ref="index:more"/>
-    <file name="u6549.png" crc="3885501909" ref="index:more"/>
-    <file name="u6549-r.png" crc="3902811972" ref="index:more"/>
     <file name="kaori-12.png" crc="501917571" seo="true" ref="index:more">
       <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
     </file>
     <file name="u6522-4.png" crc="3941776977" ref="index:more"/>
     <file name="u6519-4.png" crc="81684262" ref="index:more"/>
+    <file name="u6588.png" crc="4146065616" ref="index:more"/>
+    <file name="u6588-r.png" crc="368587031" ref="index:more"/>
+    <file name="u6588-a.png" crc="206161848" ref="index:more"/>
+    <file name="u6623.png" crc="421829134" ref="index:more"/>
+    <file name="u6623-r.png" crc="4164319717" ref="index:more"/>
+    <file name="u6623-a.png" crc="149994374" ref="index:more"/>
+    <file name="u6656.png" crc="125672175" ref="index:more"/>
+    <file name="u6656-r.png" crc="3999410663" ref="index:more"/>
+    <file name="u6656-a.png" crc="3940697722" ref="index:more"/>
+    <file name="u6682.png" crc="3914044123" ref="index:more"/>
+    <file name="u6682-r.png" crc="3888683404" ref="index:more"/>
+    <file name="u6682-a.png" crc="4238966826" ref="index:more"/>
+    <file name="u6710.png" crc="197351092" ref="index:more"/>
+    <file name="u6710-r.png" crc="3918257005" ref="index:more"/>
+    <file name="u6710-a.png" crc="372134461" ref="index:more"/>
+    <file name="u6739.png" crc="399176539" ref="index:more"/>
+    <file name="u6739-r.png" crc="266402105" ref="index:more"/>
+    <file name="u6739-a.png" crc="3956473303" ref="index:more"/>
   </folder>
-  <file name="index.html" crc="74257378" seo="true" mt="1551183701566" redirect="true"/>
-  <file name="more.html" crc="4003492869" seo="true" mt="1551183474168" redirect="true"/>
+  <file name="index.html" crc="169940039" seo="true" mt="1551184156806" redirect="true"/>
+  <file name="more.html" crc="4014407324" seo="true" mt="1551184187483" redirect="true"/>
 </manifest>
