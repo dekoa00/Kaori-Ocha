@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551183281131">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551183543401">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="53762796" ref="index"/>
+    <file name="index.css" crc="3909351381" ref="index"/>
     <file name="iefonts_index.css" crc="3793535615" ref="index"/>
     <file name="more.css" crc="265417533" ref="more"/>
     <file name="master_a-master.css" crc="13455187" ref="more:index"/>
@@ -36,12 +36,12 @@
   </folder>
   <folder name="images">
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:more">
-      <caption webpage="milk-tea" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-7" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="untitled-3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
       <caption webpage="more" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
@@ -69,16 +69,16 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="xcw5jkbt.png" crc="3787884438" seo="true" ref="more">
-      <caption webpage="more" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="more" alt=""/>
     </file>
     <file name="foody-tra-sua-kaori-ocha-nguyen-thi-thap-939-636755471489314277.jpg" crc="8958967" seo="true" ref="more">
-      <caption webpage="more" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="more" alt=""/>
     </file>
     <file name="aroma-art-beautiful-544113.png" crc="84373377" seo="true" ref="more">
-      <caption webpage="more" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="more" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="more:index"/>
     <file name="u4105-11.png" crc="101737808" ref="more"/>
@@ -110,7 +110,7 @@
     <file name="u4332-4.png" crc="354613530" ref="more"/>
     <file name="u4323-4.png" crc="4173880780" ref="more"/>
     <file name="u4329-4.png" crc="525472532" ref="more"/>
-    <file name="u4331-4.png" crc="382055490" ref="more"/>
+    <file name="u4331-4.png" crc="38042906" ref="more"/>
     <file name="u4353-4.png" crc="4217912840" ref="more"/>
     <file name="u4354-4.png" crc="10350019" ref="more"/>
     <file name="u4352-fss.png" crc="349963302" ref="more"/>
@@ -154,6 +154,6 @@
     <file name="u6522-4.png" crc="3941776977" ref="index:more"/>
     <file name="u6519-4.png" crc="81684262" ref="index:more"/>
   </folder>
-  <file name="index.html" crc="3832889870" seo="true" mt="1551183266227" redirect="true"/>
-  <file name="more.html" crc="55849806" seo="true" mt="1551183266227" redirect="true"/>
+  <file name="index.html" crc="4180367441" seo="true" mt="1551183528985" redirect="true"/>
+  <file name="more.html" crc="4003492869" seo="true" mt="1551183474168" redirect="true"/>
 </manifest>
