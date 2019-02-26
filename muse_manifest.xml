@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551182517864">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551182783286">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="11357847" ref="index"/>
+    <file name="index.css" crc="117670019" ref="index"/>
     <file name="iefonts_index.css" crc="3793535615" ref="index"/>
-    <file name="more.css" crc="4063836900" ref="more"/>
-    <file name="master_a-master.css" crc="3820135313" ref="more:index"/>
+    <file name="more.css" crc="472901843" ref="more"/>
+    <file name="master_a-master.css" crc="3928916203" ref="more:index"/>
   </folder>
   <folder name="fonts">
     <file name="fa-brands-400.woff" crc="4040601067"/>
@@ -37,12 +37,12 @@
   <folder name="images">
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:more">
       <caption webpage="untitled-4" alt=""/>
-      <caption webpage="milk-tea" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="untitled-3" alt=""/>
-      <caption webpage="more" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="more" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -151,9 +151,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
     </file>
-    <file name="u6522-4.png" crc="3801755753" ref="index:more"/>
-    <file name="u6519-4.png" crc="4168567026" ref="index:more"/>
+    <file name="u6522-4.png" crc="3941776977" ref="index:more"/>
+    <file name="u6519-4.png" crc="3862372668" ref="index:more"/>
   </folder>
-  <file name="index.html" crc="239703111" seo="true" mt="1551182505382" redirect="true"/>
-  <file name="more.html" crc="1659387" seo="true" mt="1551182505382" redirect="true"/>
+  <file name="index.html" crc="342464959" seo="true" mt="1551182751065" redirect="true"/>
+  <file name="more.html" crc="3840812910" seo="true" mt="1551182751065" redirect="true"/>
 </manifest>
