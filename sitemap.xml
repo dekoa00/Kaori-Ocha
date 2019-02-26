@@ -35,7 +35,7 @@
   </url>
   <url>
     <loc>http://KAORI.COM.VN/more.html</loc>
-    <lastmod>2019-02-25</lastmod>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -49,6 +49,9 @@
     </image:image>
     <image:image>
       <image:loc>http://KAORI.COM.VN/images/aroma-art-beautiful-544113.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://KAORI.COM.VN/images/khai-truong-cua-hang-tra-sua-kaori-ocha-tai-quan-7-4-800-10470-crop-u6463.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
