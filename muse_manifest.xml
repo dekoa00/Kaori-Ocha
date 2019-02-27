@@ -1,13 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551244184482">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551244882587">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="408576869" ref="phone>thông-tin:phone>index"/>
       <file name="th_ng-tin.css" crc="236752126" ref="phone>thông-tin"/>
-      <file name="index.css" crc="27444943" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="3866151841" ref="phone>index"/>
+      <file name="index.css" crc="229494406" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3874257948" ref="phone>index"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index:phone>thông-tin"/>
+      <file name="nomq_index.css" crc="3884119547" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="306982163" seo="true" mt="1551244171170" redirect="true"/>
-    <file name="thông-tin.html" crc="4276944905" seo="true" mt="1551242168984" redirect="true"/>
+    <file name="index.html" crc="4254739283" seo="true" mt="1551244869422" redirect="true"/>
+    <file name="thông-tin.html" crc="3856368552" seo="true" mt="1551244842209" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -43,16 +45,18 @@
     <file name="form_throttle.php" crc="93986428" ref="thông-tin"/>
     <file name="form_process.php" crc="3851993751" ref="thông-tin"/>
     <file name="form-u4336.php" crc="70266383" ref="thông-tin"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="phone>index"/>
   </folder>
   <folder name="images">
     <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:thông-tin:phone>index">
-      <caption webpage="milk-tea" alt=""/>
-      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="thông-tin" alt=""/>
       <caption webpage="untitled-4" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
@@ -152,8 +156,8 @@
     <file name="u6570-4.png" crc="447244869" ref="index:thông-tin"/>
     <file name="kaori-12.png" crc="501917571" seo="true" ref="index:thông-tin:phone>index:phone>thông-tin">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
-      <caption webpage="thông-tin" alt=""/>
       <caption webpage="thông-tin" alt=""/>
     </file>
     <file name="u6522-4.png" crc="3941776977" ref="index:thông-tin"/>
@@ -179,20 +183,26 @@
     <file name="favicon.ico" crc="211054850" ref="phone>index"/>
     <file name="xojilyxq181x201.png" crc="4162846069" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="trau181x213.png" crc="497457716" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="fruit tea180x213.png" crc="136940529" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="cf180x217.png" crc="346556297" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="matcha182x214.png" crc="142240508" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="cam ep181x214.png" crc="4088266916" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u6892.png" crc="3863496137" ref="phone>index:phone>thông-tin"/>
