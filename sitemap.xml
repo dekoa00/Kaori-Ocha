@@ -5,6 +5,7 @@
     <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://KAORI.COM.VN/phone/index.html"/>
     <image:image>
       <image:loc>http://KAORI.COM.VN/images/kaori-1.png</image:loc>
     </image:image>
@@ -41,6 +42,7 @@
     <lastmod>2019-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://KAORI.COM.VN/phone/thông-tin.html"/>
     <image:image>
       <image:loc>http://KAORI.COM.VN/images/kaori-1.png</image:loc>
     </image:image>

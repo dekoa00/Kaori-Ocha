@@ -1,4 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551232561422">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551243872258">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="408576869" ref="phone>thông-tin:phone>index"/>
+      <file name="th_ng-tin.css" crc="236752126" ref="phone>thông-tin"/>
+      <file name="index.css" crc="160619583" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3866151841" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4199894588" seo="true" mt="1551243859860" redirect="true"/>
+    <file name="thông-tin.html" crc="4276944905" seo="true" mt="1551242168984" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4202789768" ref="index"/>
@@ -15,19 +25,19 @@
     <file name="fa-solid-900.svg" crc="3970430265"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thông-tin"/>
-    <file name="museutils.js" crc="3803043152" ref="index:thông-tin"/>
-    <file name="whatinput.js" crc="86476730" ref="index:thông-tin"/>
-    <file name="museconfig.js" crc="380897831" ref="index:thông-tin"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:thông-tin"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:thông-tin"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:thông-tin"/>
-    <file name="require.js" crc="4157109226" ref="index:thông-tin"/>
-    <file name="webpro.js" crc="242022427" ref="index:thông-tin"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="thông-tin"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thông-tin:phone>index:phone>thông-tin"/>
+    <file name="museutils.js" crc="3803043152" ref="index:thông-tin:phone>index:phone>thông-tin"/>
+    <file name="whatinput.js" crc="86476730" ref="index:thông-tin:phone>index:phone>thông-tin"/>
+    <file name="museconfig.js" crc="380897831" ref="index:thông-tin:phone>index:phone>thông-tin"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:thông-tin:phone>index:phone>thông-tin"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:thông-tin:phone>index:phone>thông-tin"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:thông-tin:phone>index:phone>thông-tin"/>
+    <file name="require.js" crc="4157109226" ref="index:thông-tin:phone>index:phone>thông-tin"/>
+    <file name="webpro.js" crc="242022427" ref="index:thông-tin:phone>index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="thông-tin:phone>index:phone>thông-tin"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="thông-tin"/>
     <file name="form_check.php" crc="147359589" ref="thông-tin"/>
     <file name="form_throttle.php" crc="93986428" ref="thông-tin"/>
@@ -35,14 +45,15 @@
     <file name="form-u4336.php" crc="70266383" ref="thông-tin"/>
   </folder>
   <folder name="images">
-    <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:thông-tin">
+    <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:thông-tin:phone>index">
       <caption webpage="milk-tea" alt=""/>
       <caption webpage="untitled-3" alt=""/>
+      <caption webpage="thông-tin" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="untitled-4" alt=""/>
-      <caption webpage="thông-tin" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
@@ -70,21 +81,21 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="xcw5jkbt.png" crc="3787884438" seo="true" ref="thông-tin">
-      <caption webpage="thông-tin" alt=""/>
       <caption webpage="more" alt=""/>
+      <caption webpage="thông-tin" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="foody-tra-sua-kaori-ocha-nguyen-thi-thap-939-636755471489314277.jpg" crc="8958967" seo="true" ref="thông-tin">
-      <caption webpage="thông-tin" alt=""/>
       <caption webpage="more" alt=""/>
+      <caption webpage="thông-tin" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="aroma-art-beautiful-544113.png" crc="84373377" seo="true" ref="thông-tin">
-      <caption webpage="thông-tin" alt=""/>
       <caption webpage="more" alt=""/>
+      <caption webpage="thông-tin" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:thông-tin"/>
+    <file name="blank.gif" crc="4208392903" ref="index:thông-tin:phone>index:phone>thông-tin"/>
     <file name="u4105-11.png" crc="101737808" ref="thông-tin"/>
     <file name="u4104-4.png" crc="145196730" ref="thông-tin"/>
     <file name="u4111-4.png" crc="4020843384" ref="thông-tin"/>
@@ -140,9 +151,11 @@
     <file name="u6489.png" crc="4149111700" ref="thông-tin"/>
     <file name="u6489-r.png" crc="428505256" ref="thông-tin"/>
     <file name="u6570-4.png" crc="447244869" ref="index:thông-tin"/>
-    <file name="kaori-12.png" crc="501917571" seo="true" ref="index:thông-tin">
+    <file name="kaori-12.png" crc="501917571" seo="true" ref="index:thông-tin:phone>index:phone>thông-tin">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
+      <caption webpage="thông-tin" alt=""/>
       <caption webpage="thông-tin" alt=""/>
     </file>
     <file name="u6522-4.png" crc="3941776977" ref="index:thông-tin"/>
@@ -165,8 +178,47 @@
     <file name="u6739.png" crc="399176539" ref="index:thông-tin"/>
     <file name="u6739-r.png" crc="266402105" ref="index:thông-tin"/>
     <file name="u6739-a.png" crc="3956473303" ref="index:thông-tin"/>
-    <file name="favicon.ico" crc="3999721647" ref="index"/>
+    <file name="favicon.ico" crc="211054850" ref="phone>index"/>
+    <file name="xojilyxq181x201.png" crc="4162846069" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trau181x213.png" crc="497457716" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fruit tea180x213.png" crc="136940529" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cf180x217.png" crc="346556297" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="matcha182x214.png" crc="142240508" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cam ep181x214.png" crc="4088266916" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6892.png" crc="3863496137" ref="phone>index:phone>thông-tin"/>
+    <file name="u6892-r.png" crc="3941822202" ref="phone>index:phone>thông-tin"/>
+    <file name="u6892-a.png" crc="52605025" ref="phone>index:phone>thông-tin"/>
+    <file name="u6884.png" crc="255392977" ref="phone>index:phone>thông-tin"/>
+    <file name="u6884-r.png" crc="3828655070" ref="phone>index:phone>thông-tin"/>
+    <file name="u6884-a.png" crc="4073793660" ref="phone>index:phone>thông-tin"/>
+    <file name="u6900.png" crc="408815227" ref="phone>index:phone>thông-tin"/>
+    <file name="u6900-r.png" crc="3958475255" ref="phone>index:phone>thông-tin"/>
+    <file name="u6900-a.png" crc="95429836" ref="phone>index:phone>thông-tin"/>
+    <file name="u6878.png" crc="76365191" ref="phone>index:phone>thông-tin"/>
+    <file name="u6878-r.png" crc="431655348" ref="phone>index:phone>thông-tin"/>
+    <file name="u6878-a.png" crc="3934264403" ref="phone>index:phone>thông-tin"/>
+    <file name="u6869.png" crc="349689074" ref="phone>index:phone>thông-tin"/>
+    <file name="u6869-r.png" crc="527860963" ref="phone>index:phone>thông-tin"/>
+    <file name="u6869-a.png" crc="177046655" ref="phone>index:phone>thông-tin"/>
+    <file name="u6906.png" crc="4149523420" ref="phone>index:phone>thông-tin"/>
+    <file name="u6906-r.png" crc="41041597" ref="phone>index:phone>thông-tin"/>
+    <file name="u6906-a.png" crc="4255155838" ref="phone>index:phone>thông-tin"/>
+    <file name="u6865-4.png" crc="4276436544" ref="phone>index:phone>thông-tin"/>
+    <file name="u6864-4.png" crc="442423424" ref="phone>index:phone>thông-tin"/>
+    <file name="u6863-4.png" crc="3868697926" ref="phone>index:phone>thông-tin"/>
   </folder>
-  <file name="index.html" crc="384191778" seo="true" mt="1551232548880" redirect="true"/>
-  <file name="thông-tin.html" crc="188302392" seo="true" mt="1551232548880" redirect="true"/>
+  <file name="index.html" crc="3767907303" seo="true" mt="1551241698359" redirect="true"/>
+  <file name="thông-tin.html" crc="88516249" seo="true" mt="1551241698401" redirect="true"/>
 </manifest>
