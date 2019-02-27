@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551243872258">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551244184482">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="408576869" ref="phone>thông-tin:phone>index"/>
       <file name="th_ng-tin.css" crc="236752126" ref="phone>thông-tin"/>
-      <file name="index.css" crc="160619583" ref="phone>index"/>
+      <file name="index.css" crc="27444943" ref="phone>index"/>
       <file name="iefonts_index.css" crc="3866151841" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4199894588" seo="true" mt="1551243859860" redirect="true"/>
+    <file name="index.html" crc="306982163" seo="true" mt="1551244171170" redirect="true"/>
     <file name="thông-tin.html" crc="4276944905" seo="true" mt="1551242168984" redirect="true"/>
   </folder>
   <folder name="css">
@@ -49,12 +49,11 @@
       <caption webpage="milk-tea" alt=""/>
       <caption webpage="untitled-3" alt=""/>
       <caption webpage="thông-tin" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-7" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -152,7 +151,6 @@
     <file name="u6489-r.png" crc="428505256" ref="thông-tin"/>
     <file name="u6570-4.png" crc="447244869" ref="index:thông-tin"/>
     <file name="kaori-12.png" crc="501917571" seo="true" ref="index:thông-tin:phone>index:phone>thông-tin">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
       <caption webpage="thông-tin" alt=""/>
